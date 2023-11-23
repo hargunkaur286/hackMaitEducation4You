@@ -94,3 +94,23 @@ Description: Facilitate efficient note-sharing among students and teachers, prom
 Objective: Facilitate real-time question-and-answer sessions for students and teachers.
 Implementation: Implement a chatroom feature with real-time communication capabilities, allowing users to ask questions and receive instant responses.
 Benefits: Promotes active participation, addresses queries promptly, and fosters a collaborative learning environment.
+
+
+## TEZOS
+
+* PDF to Video
+The integration of smart contracts into the PDF to Video feature of our EdTech platform brings a heightened level of security, transparency, and efficiency to user transactions. These smart contracts authenticate users, control access based on subscription status, and ensure fair and transparent billing for this premium service. Furthermore, they record and audit transactions, creating a decentralized and tamper-resistant ledger. By leveraging smart contracts, we establish a trustworthy financial ecosystem, contributing to the overall integrity of the platform. Users can confidently avail the PDF to Video conversion service, knowing that their transactions are secure, access is controlled transparently, and the platform's services are conducted with the utmost reliability.
+
+* PDF to MCQ Converter:
+Smart contracts can be used to facilitate secure transactions related to the PDF to MCQ conversion feature, ensuring that users are charged fairly for utilizing this premium service. Additionally, the smart contract can record transactions for auditing purposes.
+
+* AI-powered PDF Chatbot Integration:
+Smart contracts can secure transactions related to the AI-powered chatbot service. Users might be charged for the usage, and smart contracts ensure transparent and secure financial transactions, contributing to the platform's overall integrity.
+
+* Note-Taking Suite:
+Implementing smart contracts can secure and authenticate note-sharing transactions, providing a decentralized and transparent record of multimedia-supported notes. This ensures the integrity of shared educational materials.
+
+* Interactive Chatrooms:
+Smart contracts can govern access to premium or specialized chatrooms, managing subscription payments, and ensuring that users get the level of access they have paid for. This contributes to the platform's security and transparency.
+
+In summary, integrating smart contracts into these features adds a layer of security, transparency, and efficiency to the transactions and interactions within your edtech platform. It ensures that financial transactions are conducted securely, access to premium features is managed transparently, and users can trust the integrity of the platform's services.
