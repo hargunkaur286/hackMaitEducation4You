@@ -14,10 +14,20 @@
 
 ## Features
 
+* Pdf to Video
+<img width="800" alt="Screenshot 2023-11-23 at 9 30 11 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/fa875c16-f673-4b81-9c12-94b38e2d2f95">
+
 * Pdf to MCQ
 <img width="800" alt="Screenshot 2023-11-23 at 9 25 57 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/d3945d0c-443a-45f1-ae64-9c5eca250d62">
 
+* Pdf to AI Chatbot
+<img width="800" alt="Screenshot 2023-11-23 at 9 28 53 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/2d26d216-4d2c-487d-a948-a60e163701f1">
 
+* Note Sharing
+<img width="800" alt="Screenshot 2023-11-23 at 9 32 00 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/b7668fbd-e82d-42af-ac80-e40ecac02f83">
+
+* Chat Room
+<img width="800" alt="Screenshot 2023-11-23 at 9 32 51 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/69b7e9cd-03a1-4194-b2f7-3f225a7a9b0c">
 
 
 ## Problem Statement:
