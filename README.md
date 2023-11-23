@@ -49,8 +49,8 @@ Utilize integrated calendar and note-taking app for efficient time management an
 Join topic-specific chat rooms for collaborative learning and peer interaction.
 
 * For Teachers:
-Enhanced Content Delivery:
 
+* Enhanced Content Delivery:
 Transform lesson materials into dynamic videos for a more engaging and effective teaching experience.
 
 * Real-time Assessments:
