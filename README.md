@@ -1,3 +1,20 @@
+## Main Website
+
+<img width="1466" alt="Screenshot 2023-11-23 at 9 21 54 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/14ecc08c-1aa3-4fab-ba37-b8d07e109b04">
+
+<img width="1466" alt="Screenshot 2023-11-23 at 9 22 15 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/1ada2648-dd02-4f60-895c-19a2b678471a">
+
+## Tezos 
+
+<img width="1466" alt="Screenshot 2023-11-23 at 9 23 08 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/9dbbbafc-38aa-4268-92e7-bb0ed0200a53">
+
+![smartcontract1](https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/e4784d3e-7fbb-4744-a22e-e1909f936ed6)
+
+![smartcontract2](https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/aa5beb28-58f1-416c-8a39-aaf5db45c803)
+
+
+
+
 ## Problem Statement:
 Traditional educational materials often lack engagement and fail to cater to diverse learning preferences, leaving students struggling with comprehension. Teachers face challenges in delivering dynamic content that resonates with their students. The need for an interactive and personalized learning experience remains unmet, hindering the effectiveness of education.
 
