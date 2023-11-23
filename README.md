@@ -1,8 +1,8 @@
 ## Main Website
 
-<img width="1466" alt="Screenshot 2023-11-23 at 9 21 54 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/14ecc08c-1aa3-4fab-ba37-b8d07e109b04">
+<img width="800" alt="Screenshot 2023-11-23 at 9 21 54 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/14ecc08c-1aa3-4fab-ba37-b8d07e109b04">
 
-<img width="1466" alt="Screenshot 2023-11-23 at 9 22 15 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/1ada2648-dd02-4f60-895c-19a2b678471a">
+<img width="800" alt="Screenshot 2023-11-23 at 9 22 15 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/1ada2648-dd02-4f60-895c-19a2b678471a">
 
 ## Tezos 
 
@@ -11,6 +11,11 @@
 ![smartcontract1](https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/e4784d3e-7fbb-4744-a22e-e1909f936ed6)
 
 ![smartcontract2](https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/aa5beb28-58f1-416c-8a39-aaf5db45c803)
+
+## Features
+
+* Pdf to MCQ
+<img width="800" alt="Screenshot 2023-11-23 at 9 25 57 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/d3945d0c-443a-45f1-ae64-9c5eca250d62">
 
 
 
