@@ -1,3 +1,9 @@
+## Video Link: 
+https://youtu.be/KJ8utMfk0e0
+
+## Tezos
+https://better-call.dev/ghostnet/KT1TRHqoWYzzdMB4J3TquqxLCVU9oG5b5HS9/operations
+
 ## Main Website
 
 <img width="800" alt="Screenshot 2023-11-23 at 9 21 54 PM" src="https://github.com/hargunkaur286/hackMaitEducation4You/assets/96698544/14ecc08c-1aa3-4fab-ba37-b8d07e109b04">
