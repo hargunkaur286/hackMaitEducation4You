@@ -40,7 +40,7 @@ https://better-call.dev/ghostnet/KT1TRHqoWYzzdMB4J3TquqxLCVU9oG5b5HS9/operations
 Traditional educational materials often lack engagement and fail to cater to diverse learning preferences, leaving students struggling with comprehension. Teachers face challenges in delivering dynamic content that resonates with their students. The need for an interactive and personalized learning experience remains unmet, hindering the effectiveness of education.
 
 ## Solution:
-Our innovative EdTech platform revolutionizes the learning experience by transforming static PDFs into dynamic videos, facilitating real-time Q&A sessions, creating mind maps, and providing instant AI-powered chatbot assistance. The platform integrates seamlessly with Ethereum and Polygon blockchains for secure and efficient transactions. This holistic solution addresses the limitations of traditional education, making learning engaging, personalized, and effective.
+Our innovative EdTech platform revolutionizes the learning experience by transforming static PDFs into dynamic videos, facilitating real-time Q&A sessions, creating mind maps, and providing instant AI-powered chatbot assistance. The platform integrates seamlessly with Tezos blockchain for secure and efficient transactions. This holistic solution addresses the limitations of traditional education, making learning engaging, personalized, and effective.
 
 
 ## Tech Stack:
